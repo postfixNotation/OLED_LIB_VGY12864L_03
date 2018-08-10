@@ -19,3 +19,6 @@ void setup() {
 
 void loop() {
 }
+
+// More information is provided in my GitHub repository:
+// https://github.com/postfixNotation/OLED_LIB_VGY12864L_03
