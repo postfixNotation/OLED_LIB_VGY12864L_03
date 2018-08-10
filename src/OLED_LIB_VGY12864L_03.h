@@ -2,13 +2,13 @@
 // @email:  postfixNotation@gmail.com
 // @date:   9. August 2018
 // @description:  This is a library for an OLED display module
-//                called "VGY12864L-03" are generally 12864L.
+//                called "VGY12864L-03" or generally 12864L.
 //                The version I've been working on has yellow
 //                colored pixels.
 //                Both a parallel and a serial interface version
 //                have been implemented and tested using an Arduino Due.
 //                Feel free to ask questions and to submit improvements!
-// @github:			https://github.com/postfixNotation/OLED_LIB_VGY12864L_03
+// @github:       https://github.com/postfixNotation/OLED_LIB_VGY12864L_03
 
 #ifndef OLED_LIB_VGY12864L_03_H_
 #define OLED_LIB_VGY12864L_03_H_
